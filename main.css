@@ -111,3 +111,25 @@ section h2 {
 #economy .articles article a {
     background-color: #ff9f1a;
 }
+
+#entretenimento {
+    background-color: rgb(199, 199, 199);
+}
+
+#entretenimento .articles article a {
+    background-color: black;
+}
+
+#tecnologia {
+    background-color: rgb(55, 55, 247);
+}
+
+#tecnologia p,
+h3,
+h2 {
+    color: white;
+}
+
+#tecnologia time {
+    color: #f5f9ff;
+}
